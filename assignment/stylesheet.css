@@ -1,0 +1,24 @@
+.header {
+  text-align: center;
+}
+
+body {
+  text-align: center;
+}
+
+info h2 {
+  color: salmon;
+  border-style: dashed;
+  border-color: orange;
+}
+
+info h3 {
+  color: green;
+  border-style: dashed;
+  border-color: lightblue;
+}
+
+info img {
+  border-style: solid;
+  border-color: teal;
+}
